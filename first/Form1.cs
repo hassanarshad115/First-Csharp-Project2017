@@ -29,7 +29,8 @@ namespace first
 
         private void label1_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("hassanmalik.comyr.com");
+            System.Diagnostics.Process.Start("hassanmalik.comyr.com/");
+
         }
     }
 }
