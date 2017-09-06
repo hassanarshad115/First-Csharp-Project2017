@@ -21,5 +21,10 @@ namespace first
         {
             MessageBox.Show("Welcome Hassan This is Visual Studeo 2017");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
